@@ -65,6 +65,8 @@ Runs a SELECT query and returns data in two formats:
 ### **Precompiled Binaries**
 
 * Unreal Engine **5.2**
+* Unreal Engine **5.4**
+* Unreal Engine **5.7**
 
 ### **Source Code**
 
