@@ -1,6 +1,7 @@
 # **PostgreSQL Integration Plugin for Unreal Engine 5**
 
 A lightweight plugin that enables **direct PostgreSQL database access** inside Unreal Engine, supporting both **C++** and **Blueprints**.
+This is a **BETA** version, proceed with caution.
 For support, join the Discord server:
 **[https://discord.gg/BxHRHDdkNy](https://discord.gg/BxHRHDdkNy)**
 
